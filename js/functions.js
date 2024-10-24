@@ -67,4 +67,3 @@ extractsNumbers('а я томат');
 extractsNumbers(2023);
 extractsNumbers(-1);
 extractsNumbers(1.5);
-
